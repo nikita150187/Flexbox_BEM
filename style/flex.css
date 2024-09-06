@@ -2,12 +2,24 @@
   display: flex;
   width: 1152px;
   height: 700px;
+  min-height: 100vh;
   border: 2px solid green;
   justify-content: space-around;
+  gap: 10px;
+  align-items: center;
+  flex-flow: wrap row;
+  align-content: space-evenly;
+  background-color: brown;
+  border-radius: 10px;
 }
 
 .box{
   border: 2px solid red;
   width: 200px;
   height: 80px;
+  background-color: aqua;
+  margin: 20px;
+  flex-basis: 25%;
+  padding: 10px;
+  border-radius: 8px;
 }
