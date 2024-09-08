@@ -26,6 +26,7 @@
 .box-1{
   justify-content: flex-start;
   align-items: flex-end;
+  display: flex;
 }
 .one-box {
   display: flex;
@@ -33,10 +34,9 @@
   width: 20px;
   align-items: center;
   align-content: space-between;
-  background-color: black;
-  justify-content: flex-start;
+  background-color: black;}
 
-}
+
 .box-2{
   justify-content: center;
   align-items: center;
@@ -48,3 +48,69 @@
   align-content: space-between;
   background-color: black;
 }
+.box-3{
+  justify-content: flex-start;
+  align-items: flex-end;
+  display: flex;
+}
+.three-box {
+  display: flex;
+  height: 20px;
+  width: 20px;
+  align-items: center;
+  align-content: space-between;
+  background-color: black;
+}
+.box-4{
+  justify-content: flex-start;
+  align-items: flex-end;
+  display: flex;
+}
+.four-box {
+  display: flex;
+  height: 20px;
+  width: 20px;
+  align-items: center;
+  align-content: space-between;
+  background-color: black;
+}
+.box-5{
+  justify-content: flex-start;
+  align-items: flex-end;
+  display: flex;
+}
+.four-box {
+  display: flex;
+  height: 20px;
+  width: 20px;
+  align-items: center;
+  align-content: space-between;
+  background-color: black;
+}
+.box-5{
+  justify-content: flex-start;
+  align-items: flex-end;
+  display: flex;
+}
+.five-box {
+  display: flex;
+  height: 20px;
+  width: 20px;
+  align-items: center;
+  align-content: space-between;
+  background-color: black;
+}
+.box-6{
+  justify-content: flex-start;
+  align-items: flex-end;
+  display: flex;
+}
+.six-box {
+  display: flex;
+  height: 20px;
+  width: 20px;
+  align-items: center;
+  align-content: space-between;
+  background-color: black;
+}
+
